@@ -1,0 +1,36 @@
+{
+  "id": "15b50397-a601-4994-ba8d-bf69864ee1c8",
+  "parentId": "4bb02ab8-fc85-49e7-8c11-f7848b00a75a",
+  "rootParentId": "6a1b3739-58ed-4e9f-b531-fb966f397c51",
+  "name": "Alert off - yes - custom - custom - custom",
+  "auto": true,
+  "contexts": [
+    "Alertoff-yes-custom-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Alertoff.Alertoff-yes.Alertoff-yes-custom.Alertoff-yes-custom-custom.Alertoff-yes-custom-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thanks a lot for your feedback! Your small contribution makes me learn even more and get better from time to time. Goodbye!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

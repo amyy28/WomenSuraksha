@@ -1,0 +1,9 @@
+{
+  "id": "8d07f079-51cd-490c-8c7b-069344057d80",
+  "name": "PositiveEntities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

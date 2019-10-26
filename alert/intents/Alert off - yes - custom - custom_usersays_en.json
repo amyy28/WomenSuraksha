@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f715db27-503f-417b-b7ce-fc4a740ec706",
+    "data": [
+      {
+        "text": "it was bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b2c72fb-08dc-4b64-8daa-4274322e18ae",
+    "data": [
+      {
+        "text": "it was fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2752ad93-5afd-4d70-9f0e-42e14f826d9a",
+    "data": [
+      {
+        "text": "fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81e26c81-460b-468e-8ff1-9f5b148c6680",
+    "data": [
+      {
+        "text": "it was good, except the fish market area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3d113aa-c25a-4fd6-b501-f70366be5139",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb047389-5664-4791-a724-aed61fed73ed",
+    "data": [
+      {
+        "text": "bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

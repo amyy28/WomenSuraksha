@@ -1,0 +1,51 @@
+{
+  "id": "e8706d66-f229-4d55-97ce-4b8ef9a96a68",
+  "parentId": "e09537a3-e7e0-4271-9d8b-92b90a2b3e80",
+  "rootParentId": "6a1b3739-58ed-4e9f-b531-fb966f397c51",
+  "name": "Alert off - yes - custom",
+  "auto": true,
+  "contexts": [
+    "Alertoff-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Alertoff.Alertoff-yes.Alertoff-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "Alertoff-yes-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Thank you! How was the gentry on the way overall ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you! How was the gentry on the way overall ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

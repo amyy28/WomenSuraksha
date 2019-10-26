@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6c365f15-a37e-43ea-abfe-5321a5bf95f9",
+    "data": [
+      {
+        "text": "alert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "477ccb84-f4d5-47ab-8906-0b0c445d3d81",
+    "data": [
+      {
+        "text": "alert !!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f72c5636-eb5b-46ce-a5ff-f822efc6893c",
+    "data": [
+      {
+        "text": "alert mode!! fastttt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ea8750a-18b9-4a5d-be22-2a4c5e2f6899",
+    "data": [
+      {
+        "text": "please switch to alert mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "142d01e5-c496-4faf-9eee-d19740e8bf92",
+    "data": [
+      {
+        "text": "turn on the alert mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d71d6b8-6233-43ca-be5a-75aea149b0e1",
+    "data": [
+      {
+        "text": "alert mode on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

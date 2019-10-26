@@ -1,0 +1,50 @@
+[
+  {
+    "id": "69942a9c-e657-4294-8afe-88ca19a3926e",
+    "data": [
+      {
+        "text": "Help me!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fadcee5e-aa2f-41ca-bc93-2ac9dffb1db7",
+    "data": [
+      {
+        "text": "How can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "843c8200-7402-4df5-a250-0877af72b089",
+    "data": [
+      {
+        "text": "How can I use you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c062e38c-ef24-43db-9d9f-6280f7ac5db4",
+    "data": [
+      {
+        "text": "What all can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

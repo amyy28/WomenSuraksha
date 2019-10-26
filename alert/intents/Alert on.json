@@ -1,0 +1,63 @@
+{
+  "id": "60edee5c-ddf5-45e4-8dd0-54cedf7a78c4",
+  "name": "Alert on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Sure, turning the alert mode on for you. Your location will be tracked and details shared if necessary until you switch it off. Feel safe! \n\nSeems you\u0027re going office from home. If you wish to know the street conditions on your path, click the link below.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Street Review",
+          "image": {
+            "url": "http://freestyler.ws/images/styles_screenshot/2/139/69920/69920_after.jpeg?u\u003d1488499558",
+            "accessibilityText": "Google Maps"
+          },
+          "buttons": [
+            {
+              "title": "Go to maps",
+              "openUrlAction": {
+                "url": "https://api.mapbox.com/styles/v1/ayushujjwal/ck261hzxq076g1cpcsld1tx6n.html?fresh\u003dtrue\u0026title\u003dtrue\u0026access_token\u003dpk.eyJ1IjoiYXl1c2h1amp3YWwiLCJhIjoiY2syNjFiMzE3Mm8xdTNlcXRveXE1ZThpNyJ9.FfcQ13NnrKmGunUdcUrSVw#12.7/12.47162/77.32946",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sure, turning the alert mode on for you. Your location will be tracked and details shared if necessary until you switch it off. Feel safe!",
+            "Seems you\u0027re going office from home. If you wish to know the street conditions on your path, click the link below."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
